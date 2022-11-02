@@ -4,9 +4,9 @@ import { Glitch, Span } from "./styles";
 export default function Welcome() {
   return (
     <Glitch>
-      <Span>Welcome</Span>
-      Welcome
-      <Span>Welcome</Span>
+      <Span>Catch me</Span>
+      Catch me
+      <Span>Catch me</Span>
     </Glitch>
   );
 }
